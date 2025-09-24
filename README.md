@@ -77,9 +77,9 @@ Integrating with live HR data sources
 Advanced drill-down by geography and seniority
 
 # 🔹 Repository Structure 
-Data:https://github.com/vaishali019/HR-Analytics-Dashboard-Project/blob/main/HR_Analytics.csv"<br />
+Data:https://github.com/vaishali019/HR-Analytics-Dashboard-Project/blob/main/HR_Analytics.csv <br />
 
-Dashboard:Power BI file
+Dashboard:https://github.com/vaishali019/HR-Analytics-Dashboard-Project/blob/main/attrition%20dashboard.pbix <br/>
 Images:Contains screenshot
 
 # 🔹 Feedback & Collaboration
