@@ -68,7 +68,7 @@ Understand attrition drivers by role, salary, and education.
 
 Implement data-driven retention strategies.
 
-🔹 Future Improvements
+# 🔹 Future Improvements
 
 Adding predictive analytics to forecast attrition
 
