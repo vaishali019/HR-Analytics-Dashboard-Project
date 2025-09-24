@@ -68,7 +68,7 @@ Understand attrition drivers by role, salary, and education.
 
 Implement data-driven retention strategies.
 
-# 🔹 Future Improvements
+# #🔹 Future Improvements
 
 Adding predictive analytics to forecast attrition
 
@@ -80,7 +80,9 @@ Advanced drill-down by geography and seniority
 Data:https://github.com/vaishali019/HR-Analytics-Dashboard-Project/blob/main/HR_Analytics.csv <br />
 
 Dashboard:https://github.com/vaishali019/HR-Analytics-Dashboard-Project/blob/main/attrition%20dashboard.pbix <br/>
-Images:Contains screenshot
+
+Images:<img width="1096" height="619" alt="Dashboard image" src="https://github.com/user-attachments/assets/a858a0d8-b4d1-4eca-974d-3538f0db5c5b" />
+
 
 # 🔹 Feedback & Collaboration
 Your Feedback is welcome!If you'd like to collaborate on similar projects or discuss data analysis opportunities ,feel free to reach out.
