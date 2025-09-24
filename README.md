@@ -76,5 +76,10 @@ Integrating with live HR data sources
 
 Advanced drill-down by geography and seniority
 
+# 🔹 Repository Structure 
+Data:Contains the sample dataset
+Dashboard:Power BI file
+Images:Contains screenshot
+
 # 🔹 Feedback & Collaboration
 Your Feedback is welcome!If you'd like to collaborate on similar projects or discuss data analysis opportunities ,feel free to reach out.
