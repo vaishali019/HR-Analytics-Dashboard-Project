@@ -24,7 +24,7 @@ Average Salary (6.5K)
 
 Average Years at Company (7.0)
 
-Visual Insights:
+🔹 Visual Insights:
 
 Attrition by Age, Education, Salary Slab, and Years at Company
 
@@ -34,7 +34,7 @@ Department filters with drill-down analysis
 
 Gender distribution in attrition
 
-User-Friendly:
+🔹 User-Friendly:
 
 Interactive slicers for department-wise analysis
 
