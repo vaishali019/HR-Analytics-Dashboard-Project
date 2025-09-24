@@ -75,3 +75,6 @@ Adding predictive analytics to forecast attrition
 Integrating with live HR data sources
 
 Advanced drill-down by geography and seniority
+
+# 🔹 Feedback & Collaboration
+Your Feedback is welcome!If you'd like to collaborate on similar projects or discuss data analysis opportunities ,feel free to reach out.
